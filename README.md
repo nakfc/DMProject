@@ -1,3 +1,5 @@
+# DMProject - 大漠插件的 Python 实现
+
 # DMProject
 用最少的依赖实现python版大漠插件(大漠插件v7.1904帮助文档：https://lanzous.com/icguueh)
 * 一切开发旨在学习，请勿用于非法用途
